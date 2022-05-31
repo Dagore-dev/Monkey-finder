@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MonkeyFinder.View.DetailsPage"
+             xmlns:viewmodel="clr-namespace:MonkeyFinder.ViewModel"
+             x:DataType="viewmodel:MonkeyDetailsViewModel"
+             Title="{Binding Monkey.Name}">
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid
+                ColumnDefinitions="*, Auto, *"
+                RowDefinitions="160, Auto">
+
+                <BoxView 
+                    Color="{StaticResource Primary}"
+                    Grid.ColumnSpan="3"
+                    HeightRequest="160"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Frame 
+                    Grid.Column="1"
+                    Grid.RowSpan="2"
+                    HeightRequest="160"
+                    WidthRequest="160"
+                    CornerRadius="100"
+                    HorizontalOptions="Center"
+                    Padding="0"
+                    Margin="0,80,0,0"
+                    IsClippedToBounds="True">
+                    <Image
+                        Source="{Binding Monkey.Image}"
+                        Aspect="AspectFill"
+                        HeightRequest="160"
+                        WidthRequest="160"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                    />
+                </Frame>
+
+            </Grid>
+
+            <Grid
+                ColumnDefinitions="*,*"
+                RowDefinitions="*,*,*">
+
+                <Label 
+                    HorizontalOptions="CenterAndExpand"
+                    FontSize="20"
+                    Text="Location"/>
+                <Label 
+                    Grid.Column="1"
+                    HorizontalOptions="CenterAndExpand"
+                    FontSize="20"
+                    Text="Population"/>
+
+                <Label
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    HorizontalOptions="CenterAndExpand"
+                    Padding="10"
+                    Text="{Binding Monkey.Location}"/>
+                <Label
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    HorizontalOptions="CenterAndExpand"
+                    Padding="10"
+                    Text="{Binding Monkey.Population}"/>
+                <Label
+                    Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    HorizontalOptions="FillAndExpand"
+                    Padding="10"
+                    Text="{Binding Monkey.Details}"/>
+
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
