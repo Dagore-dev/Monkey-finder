@@ -1,1 +1,0 @@
-D:\Repositorios\MonkeyFinder\MonkeyFinder.csproj;x64
