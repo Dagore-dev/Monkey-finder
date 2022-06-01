@@ -59,7 +59,9 @@
             Grid.Row="1" 
             Margin="10"/>
         <Button 
-            Text="Find closest" 
+            Text="Find closest"
+            Command="{Binding GetClosestMonkeyCommand}"
+            IsEnabled="{Binding IsNotBusy}"
             Grid.Row="1" 
             Grid.Column="1" 
             Margin="10"/>

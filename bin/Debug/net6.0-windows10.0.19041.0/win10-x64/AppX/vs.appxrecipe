@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-29T19:06:23.612</Modified>
+      <Modified>2022-06-01T14:32:47.573</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-05-29T19:06:23.142</Modified>
+      <Modified>2022-06-01T14:32:47.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2022-05-29T18:31:55.061</Modified>
+      <Modified>2022-06-01T14:28:25.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2022-05-29T19:06:22.321</Modified>
+      <Modified>2022-06-01T14:28:23.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2022-05-29T19:06:22.337</Modified>
+      <Modified>2022-06-01T14:28:23.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1055,7 +1055,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2022-05-29T19:06:23.497</Modified>
+      <Modified>2022-06-01T14:32:47.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1087,23 +1087,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.690</Modified>
+      <Modified>2022-06-01T14:28:23.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.702</Modified>
+      <Modified>2022-06-01T14:28:23.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.717</Modified>
+      <Modified>2022-06-01T14:28:23.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.741</Modified>
+      <Modified>2022-06-01T14:28:23.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.834</Modified>
+      <Modified>2022-06-01T14:28:23.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1115,147 +1115,147 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-05-29T10:14:37.876</Modified>
+      <Modified>2022-06-01T14:28:23.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.013</Modified>
+      <Modified>2022-06-01T14:28:23.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.024</Modified>
+      <Modified>2022-06-01T14:28:23.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.035</Modified>
+      <Modified>2022-06-01T14:28:23.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.054</Modified>
+      <Modified>2022-06-01T14:28:23.773</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.106</Modified>
+      <Modified>2022-06-01T14:28:23.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.882</Modified>
+      <Modified>2022-06-01T14:28:23.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.884</Modified>
+      <Modified>2022-06-01T14:28:23.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.886</Modified>
+      <Modified>2022-06-01T14:28:23.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.888</Modified>
+      <Modified>2022-06-01T14:28:23.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.893</Modified>
+      <Modified>2022-06-01T14:28:23.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.924</Modified>
+      <Modified>2022-06-01T14:28:23.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.927</Modified>
+      <Modified>2022-06-01T14:28:23.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.931</Modified>
+      <Modified>2022-06-01T14:28:23.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.937</Modified>
+      <Modified>2022-06-01T14:28:23.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.948</Modified>
+      <Modified>2022-06-01T14:28:23.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.908</Modified>
+      <Modified>2022-06-01T14:28:23.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.910</Modified>
+      <Modified>2022-06-01T14:28:23.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.912</Modified>
+      <Modified>2022-06-01T14:28:23.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.915</Modified>
+      <Modified>2022-06-01T14:28:23.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.920</Modified>
+      <Modified>2022-06-01T14:28:23.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.895</Modified>
+      <Modified>2022-06-01T14:28:23.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.897</Modified>
+      <Modified>2022-06-01T14:28:23.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.899</Modified>
+      <Modified>2022-06-01T14:28:23.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.902</Modified>
+      <Modified>2022-06-01T14:28:23.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.905</Modified>
+      <Modified>2022-06-01T14:28:23.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.952</Modified>
+      <Modified>2022-06-01T14:28:23.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.958</Modified>
+      <Modified>2022-06-01T14:28:23.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.965</Modified>
+      <Modified>2022-06-01T14:28:23.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.976</Modified>
+      <Modified>2022-06-01T14:28:23.714</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:38.007</Modified>
+      <Modified>2022-06-01T14:28:23.737</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.902</Modified>
+      <Modified>2022-06-01T14:28:23.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.909</Modified>
+      <Modified>2022-06-01T14:28:23.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.919</Modified>
+      <Modified>2022-06-01T14:28:23.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.932</Modified>
+      <Modified>2022-06-01T14:28:23.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-05-29T10:14:37.968</Modified>
+      <Modified>2022-06-01T14:28:23.714</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
