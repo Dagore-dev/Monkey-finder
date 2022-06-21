@@ -22,6 +22,8 @@ namespace MonkeyFinder.ViewModel
             this.geolocation = geolocation;
         }
 
+        [ObservableProperty]
+        bool isRefreshing;
         [ICommand]
         async Task GetMonkeysAsync ()
         {
@@ -58,6 +60,7 @@ namespace MonkeyFinder.ViewModel
             finally
             {
                 IsBusy = false;
+                IsRefreshing = false;
             }
         }
         [ICommand]

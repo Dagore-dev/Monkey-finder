@@ -532,19 +532,19 @@
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
@@ -754,58 +754,67 @@
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\lib\net5.0-windows10.0.18362.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics\6.0.300\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\6.0.300\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
       <PackagePath>Microsoft.WinUI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
       <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
       <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.pri">
       <PackagePath>Microsoft.Maui.Controls.Xaml.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.pri">
       <PackagePath>Microsoft.Maui.Essentials.pri</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\Resources\Raw\AboutAssets.txt">
@@ -945,36 +954,36 @@
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>win32</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>arm64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
   </ItemGroup>

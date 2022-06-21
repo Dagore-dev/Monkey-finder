@@ -341,3 +341,6 @@ D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qual
 D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll

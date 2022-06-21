@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>FDCA302C5CF23B4D0B48FE50947FDF3C29DA12C1082080DBCD9DDBBCA90BBEBD</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>B90E87FA7F4DA0396439E97A4D63C95B9F79E929C0B1822C79888E83BFC283D1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>C3E0A4B8-FCAB-40A6-8816-C9DF3DD8EE6D_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>C3E0A4B8-FCAB-40A6-8816-C9DF3DD8EE6D_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>C3E0A4B8-FCAB-40A6-8816-C9DF3DD8EE6D</RegisteredPackageID>
@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-06-01T14:32:47.573</Modified>
+      <Modified>2022-06-21T16:14:14.567</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-06-01T14:32:47.298</Modified>
+      <Modified>2022-06-21T16:14:14.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2022-06-01T14:28:25.042</Modified>
+      <Modified>2022-06-21T16:14:14.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2022-06-01T14:28:23.972</Modified>
+      <Modified>2022-06-21T16:14:12.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2022-06-01T14:28:23.988</Modified>
+      <Modified>2022-06-21T16:14:12.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -709,25 +709,25 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2022-04-13T17:37:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
-      <Modified>2022-05-15T00:45:14.000</Modified>
+      <Modified>2022-06-07T18:56:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2022-05-15T00:45:26.000</Modified>
+      <Modified>2022-06-07T18:55:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
-      <Modified>2022-05-15T00:45:26.000</Modified>
+      <Modified>2022-06-07T18:55:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
-      <Modified>2022-05-15T00:45:26.000</Modified>
+      <Modified>2022-06-07T18:55:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.312\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
-      <Modified>2022-05-15T00:45:22.000</Modified>
+      <Modified>2022-06-07T18:55:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
       <PackagePath>Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
@@ -1005,77 +1005,89 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2022-04-28T15:53:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics\6.0.300\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
-      <Modified>2022-05-12T02:31:30.000</Modified>
+      <Modified>2022-06-06T15:47:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\6.0.300\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
-      <Modified>2022-05-12T02:31:28.000</Modified>
+      <Modified>2022-06-06T15:46:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
-      <Modified>2022-04-15T16:56:04.000</Modified>
+      <Modified>2022-05-11T01:16:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
       <PackagePath>Microsoft.WinUI.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T19:16:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
       <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2022-06-01T17:09:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2022-06-01T17:09:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
       <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2022-06-01T17:09:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
-      <Modified>2022-04-15T17:18:40.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
-      <Modified>2022-04-15T16:56:04.000</Modified>
+      <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2022-06-01T14:32:47.462</Modified>
+      <Modified>2022-06-21T16:14:14.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2022-05-15T00:32:20.000</Modified>
+      <Modified>2022-06-07T18:45:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
-      <Modified>2022-05-15T00:31:30.000</Modified>
+      <Modified>2022-06-07T18:44:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.pri">
       <PackagePath>Microsoft.Maui.Controls.Xaml.pri</PackagePath>
-      <Modified>2022-05-15T00:32:08.000</Modified>
+      <Modified>2022-06-07T18:45:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
-      <Modified>2022-05-15T00:30:26.000</Modified>
+      <Modified>2022-06-07T18:43:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.pri">
       <PackagePath>Microsoft.Maui.Essentials.pri</PackagePath>
-      <Modified>2022-05-15T00:30:14.000</Modified>
+      <Modified>2022-06-07T18:42:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -1087,23 +1099,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.443</Modified>
+      <Modified>2022-06-21T16:14:12.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.454</Modified>
+      <Modified>2022-06-21T16:14:12.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.469</Modified>
+      <Modified>2022-06-21T16:14:12.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.492</Modified>
+      <Modified>2022-06-21T16:14:12.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.584</Modified>
+      <Modified>2022-06-21T16:14:12.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1115,183 +1127,183 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-06-01T14:28:23.624</Modified>
+      <Modified>2022-06-21T16:14:12.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.743</Modified>
+      <Modified>2022-06-21T16:14:12.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.752</Modified>
+      <Modified>2022-06-21T16:14:12.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.760</Modified>
+      <Modified>2022-06-21T16:14:12.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.773</Modified>
+      <Modified>2022-06-21T16:14:12.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.821</Modified>
+      <Modified>2022-06-21T16:14:12.637</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.629</Modified>
+      <Modified>2022-06-21T16:14:12.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.631</Modified>
+      <Modified>2022-06-21T16:14:12.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.633</Modified>
+      <Modified>2022-06-21T16:14:12.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.635</Modified>
+      <Modified>2022-06-21T16:14:12.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.638</Modified>
+      <Modified>2022-06-21T16:14:12.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.667</Modified>
+      <Modified>2022-06-21T16:14:12.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.670</Modified>
+      <Modified>2022-06-21T16:14:12.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.674</Modified>
+      <Modified>2022-06-21T16:14:12.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.680</Modified>
+      <Modified>2022-06-21T16:14:12.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.692</Modified>
+      <Modified>2022-06-21T16:14:12.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.652</Modified>
+      <Modified>2022-06-21T16:14:12.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.654</Modified>
+      <Modified>2022-06-21T16:14:12.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.656</Modified>
+      <Modified>2022-06-21T16:14:12.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.659</Modified>
+      <Modified>2022-06-21T16:14:12.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.664</Modified>
+      <Modified>2022-06-21T16:14:12.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.640</Modified>
+      <Modified>2022-06-21T16:14:12.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.642</Modified>
+      <Modified>2022-06-21T16:14:12.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.644</Modified>
+      <Modified>2022-06-21T16:14:12.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.646</Modified>
+      <Modified>2022-06-21T16:14:12.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.650</Modified>
+      <Modified>2022-06-21T16:14:12.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.695</Modified>
+      <Modified>2022-06-21T16:14:12.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.699</Modified>
+      <Modified>2022-06-21T16:14:12.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.705</Modified>
+      <Modified>2022-06-21T16:14:12.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.714</Modified>
+      <Modified>2022-06-21T16:14:12.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.737</Modified>
+      <Modified>2022-06-21T16:14:12.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.649</Modified>
+      <Modified>2022-06-01T15:52:50.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.656</Modified>
+      <Modified>2022-06-01T15:52:50.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.666</Modified>
+      <Modified>2022-06-01T15:52:50.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.679</Modified>
+      <Modified>2022-06-01T15:52:50.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repositorios\MonkeyFinder\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-06-01T14:28:23.714</Modified>
+      <Modified>2022-06-01T15:52:50.506</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>win32</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix">
-      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
-      <Version>3.469.1654.0</Version>
+    <ResolvedSDKReference Include="C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.1</Name>
+      <Version>1000.516.2156.0</Version>
       <Architecture>arm64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\dagor\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
